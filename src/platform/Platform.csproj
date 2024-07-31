@@ -81,6 +81,7 @@
   <ItemGroup>
     <Folder Include="App_Config\Include\" />
     <Content Include="App_Config\Include\*" />
+    <Folder Include="App_Config\Environment\" />
     <Content Include="App_Config\Environment\*" />
   </ItemGroup>
 
