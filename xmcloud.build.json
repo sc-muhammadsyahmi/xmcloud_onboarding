@@ -12,7 +12,7 @@
     },
     "transforms": [
       {
-        "xdtPath": "/xdts/web.config.xdt",
+        "xdtPath": "/xdts/Web.config.xdt",
         "targetPath": "/web.config"
       }  
     ],
