@@ -55,9 +55,6 @@
     <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
-
-    <Reference Include="Sitecore.Support.RandomUsernames" />
-
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Sitecore.XmCloud.Kernel" />
@@ -80,6 +77,11 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\" />
+    <Content Include="bin\*" />
+  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="App_Config\Include\" />
