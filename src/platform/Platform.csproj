@@ -56,7 +56,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
 
-    <Reference Include="Sitecore.Support.RandomUsername" />
+    <Reference Include="Sitecore.Support.RandomUsernames" />
 
   </ItemGroup>
   <ItemGroup>
