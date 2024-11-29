@@ -7,11 +7,6 @@
                 "name": "DefaultRenderingHost",
                 "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
                 "scope": "singleItem"
-            },
-                        {
-                "name": "UatRenderingHost",
-                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Uat",
-                "scope": "singleItem"
             }
         ]
     }
